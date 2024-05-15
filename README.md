@@ -1,11 +1,14 @@
 # Visualization and EDA of PIMA Indian Diabetes Dataset
 
+</hr>
+<h3>Overview</h3>
+<p>This project focuses on the Exploratory Data Analysis (EDA) and visualization of the PIMA Indian Diabetes dataset. The aim is to gain insights into the dataset's features and their relationships to better understand factors contributing to diabetes among PIMA Indian women.</p>
 
-Overview
-This project focuses on the Exploratory Data Analysis (EDA) and visualization of the PIMA Indian Diabetes dataset. The aim is to gain insights into the dataset's features and their relationships to better understand factors contributing to diabetes among PIMA Indian women.
 
-Dataset
-The PIMA Indian Diabetes dataset consists of various health-related variables such as glucose level, blood pressure, insulin, BMI, age, and diabetes status. It is sourced from a study conducted on PIMA Indian women near Phoenix, Arizona.
+</hr>
+<h3>Dataset </h3>
+<p>
+The PIMA Indian Diabetes dataset consists of various health-related variables such as glucose level, blood pressure, insulin, BMI, age, and diabetes status. It is sourced from a study conducted on PIMA Indian women near Phoenix, Arizona.</p>
 
 Purpose
 The purpose of this project is to:
@@ -14,10 +17,10 @@ Explore the distribution of different features in the dataset.
 Identify correlations between variables.
 Visualize patterns and trends within the data.
 Gain insights that could aid in understanding the risk factors associated with diabetes among PIMA Indian women.
-Tools and Libraries Used
-Python
-Google Colab
-Pandas
+##Tools and Libraries Used
+- Python
+- Google Colab
+-Pandas
 NumPy
 Matplotlib
 Seaborn
